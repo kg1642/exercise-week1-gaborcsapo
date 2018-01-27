@@ -10,4 +10,7 @@ After training, use your input running through Wekinator, sending out OSC to an 
 
 Take clear video of it working and post a link to the video somewhere in this repo. Also explain what your input, output, classes, etc. are. Post your code, Wekinator model, etc., here as well.
 
+====== Writeup and Video =============================================
+[http://gaborcsapo.com/pages/blog.html]
+
 
